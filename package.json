@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tezzla/OpenShiftTemplate.git"
+  },
+  "author": "T.S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tezzla/OpenShiftTemplate/issues"
+  },
+  "homepage": "https://github.com/Tezzla/OpenShiftTemplate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
